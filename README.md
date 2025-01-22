@@ -4,11 +4,11 @@ https://github.com/danakt/russian-words/raw/refs/heads/master/russian.txt
 
 Использование программы интуитивно понятно.
 
-##Исходники и как запустить
+Исходники и как запустить
 
 Скачать gui.py
 
 Устанавливаем необходимый пакет
-'pip install tkinter'
+pip install tkinter
 
 И запускаем компиляцию в Visual Studio Code
