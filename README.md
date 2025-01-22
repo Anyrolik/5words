@@ -8,6 +8,6 @@ https://github.com/danakt/russian-words/raw/refs/heads/master/russian.txt
 Скачать gui.py
 
 Устанавливаем необходимый пакет
-pip install tkinter
+' pip install tkinter '
 
 Запускаем компиляцию в Visual Studio Code
