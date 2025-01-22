@@ -3,3 +3,4 @@
 https://github.com/danakt/russian-words/raw/refs/heads/master/russian.txt
 
 Использование программы интуитивно понятно.
+ 
